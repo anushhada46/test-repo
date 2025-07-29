@@ -1,0 +1,64 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap'); */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+nav{
+    background: black;
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.universal{
+    padding: 120px 30px;
+}
+
+.universal h2{
+    display: inline-block;
+}
+
+.universal h2, .universal i{
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+.top-para{
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.afford i{
+    color: aqua;
+}
+
+.universal i{
+    margin-right: 20px;
+}
+
+.website{
+    background: aqua;
+}
+
+.website i{
+    color: white;
+} */
